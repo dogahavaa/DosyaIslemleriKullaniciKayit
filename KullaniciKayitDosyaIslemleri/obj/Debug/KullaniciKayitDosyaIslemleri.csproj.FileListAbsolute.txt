@@ -9,3 +9,14 @@ C:\Users\doga\Desktop\C#\KullaniciKayitDosyaIslemleri\KullaniciKayitDosyaIslemle
 C:\Users\doga\Desktop\C#\KullaniciKayitDosyaIslemleri\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.csproj.CoreCompileInputs.cache
 C:\Users\doga\Desktop\C#\KullaniciKayitDosyaIslemleri\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.exe
 C:\Users\doga\Desktop\C#\KullaniciKayitDosyaIslemleri\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.pdb
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\bin\Debug\KullaniciKayitDosyaIslemleri.exe.config
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\bin\Debug\KullaniciKayitDosyaIslemleri.exe
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\bin\Debug\KullaniciKayitDosyaIslemleri.pdb
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.csproj.AssemblyReference.cache
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.Form1.resources
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.Properties.Resources.resources
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.csproj.GenerateResource.cache
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.exe
+C:\Users\doga\Documents\GitHub\DosyaIslemleriKullaniciKayit\KullaniciKayitDosyaIslemleri\obj\Debug\KullaniciKayitDosyaIslemleri.pdb
